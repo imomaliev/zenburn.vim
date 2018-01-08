@@ -222,7 +222,7 @@ hi DiffDelete      guifg=#333333 guibg=#464646                ctermfg=236 ctermb
 hi DiffText        guifg=#ecbcbc guibg=#41363c gui=bold       ctermfg=217 ctermbg=237 cterm=bold
 hi Directory       guifg=#9fafaf gui=bold                     ctermfg=109 cterm=bold
 hi ErrorMsg        guifg=#80d4aa guibg=#2f2f2f gui=bold       ctermfg=115 ctermbg=236 cterm=bold
-hi Exception       guifg=#c3bf9f gui=bold                     ctermfg=249 cterm=bold
+hi Exception       guifg=#f0dfaf gui=bold                     ctermfg=223 cterm=bold
 hi Float           guifg=#c0bed1                              ctermfg=251
 hi FoldColumn      guifg=#93b3a3 guibg=#3f4040
 hi Folded          guifg=#93b3a3 guibg=#3f4040
